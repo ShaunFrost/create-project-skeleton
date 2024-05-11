@@ -9,3 +9,7 @@ A lot of times when building react projects, I end up using create react vite an
 `npx create-project-skeleton`
 
 To create an empty hello world project choose the options that start with "Empty".
+
+## Future work
+
+Add more starter hello world templates.
