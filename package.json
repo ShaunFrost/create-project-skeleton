@@ -1,0 +1,31 @@
+{
+  "name": "create-project-skeleton",
+  "version": "1.0.0",
+  "description": "Create an empty vite react project with initial example deleted",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "create-project-skeleton": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaunFrost/create-project-skeleton.git"
+  },
+  "keywords": [
+    "React",
+    "Typescript",
+    "Vite"
+  ],
+  "author": "Rasesh Kumar Rout",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShaunFrost/create-project-skeleton/issues"
+  },
+  "homepage": "https://github.com/ShaunFrost/create-project-skeleton#readme",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  }
+}
