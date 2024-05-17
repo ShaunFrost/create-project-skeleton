@@ -3,7 +3,7 @@ import { __dirname } from './fileUtils.js'
 
 // const TEMPLATES = fs.readdirSync(`${__dirname}/templates`);
 
-const TEMPLATES = ['Vite + React + Typescript', 'Empty Vite + React + Typescript', 'Vite + React']
+const TEMPLATES = ['Empty Vite + React + Typescript', 'Empty Vite + React + Typescript + Tailwind', 'Vite + React + Typescript', 'Vite + React']
 
 export const CREATE_VITE_TEMPLATE = {
   'Vite + React + Typescript': 'react-ts',
@@ -11,7 +11,8 @@ export const CREATE_VITE_TEMPLATE = {
 }
 
 export const EMPTY_TEMPLATES = {
-  'Empty Vite + React + Typescript': 'vite-react-typescript'
+  'Empty Vite + React + Typescript': 'vite-react-typescript',
+  'Empty Vite + React + Typescript + Tailwind': 'vite-react-typescript-tailwind'
 }
 
 export const USER_PROMPTS = [
