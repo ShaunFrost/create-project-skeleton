@@ -12,7 +12,8 @@ export const CREATE_VITE_TEMPLATE = {
 
 export const EMPTY_TEMPLATES = {
   'Empty Vite + React + Typescript': 'vite-react-typescript',
-  'Empty Vite + React + Typescript + Tailwind': 'vite-react-typescript-tailwind'
+  'Empty Vite + React + Typescript + Tailwind': 'vite-react-typescript-tailwind',
+  'Empty Vite + React-THREE-Fiber + Typescript': 'vite-r3f'
 }
 
 export const USER_PROMPTS = [
